@@ -1,0 +1,2 @@
+# USB-Oscilloscope-
+Using the ARM STM32F407VG microcontroller to develop a fully functioning oscilloscope that can be plugged into a PC and operated through a PC (i.e. with some front-end UI). Using Keil uVision v5 to develop the software. Also, using a Lab Kit provided by the University of York to work on the hardware aspect of the project. With the end goal creating a product that could be marketable and released into the market.
